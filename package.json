@@ -1,0 +1,11 @@
+{
+  "name": "discordbot",
+  "version": "0.0.1",
+  "description": "discord bot!",
+  "main": "bot.js",
+  "author": "Tiniux",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
